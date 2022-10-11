@@ -1,3 +1,4 @@
+# a CDK app for a varnish cluster as a frontend and a Nodejs cluster as a backend
 
 # Welcome to your CDK Python project!
 
@@ -56,3 +57,4 @@ command.
  * `cdk docs`        open CDK documentation
 
 Enjoy!
+# CDK-Stack
